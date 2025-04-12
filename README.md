@@ -43,7 +43,7 @@ entra mediante el enlace del repositorio al sistema y comienza a utilizarlo
 
 🎧 ¡Comienza a cargar, organizar y reproducir tus pistas!
 
-📦 Funcionalidades futuras (roadmap)
+## 📦 Funcionalidades futuras (roadmap)
 
  Soporte MIDI o hotkeys para lanzamientos en vivo
 
@@ -53,17 +53,17 @@ entra mediante el enlace del repositorio al sistema y comienza a utilizarlo
 
  Implementación de reproducción de video
 
-🧠 ¿Por qué OSC?
+## 🧠 ¿Por qué OSC?
 Muchos programas similares son de pago, privativos o demasiado complejos para lo que se necesita en una escena real. OSC nació para ser una alternativa libre, ligera y accesible sin renunciar al estilo ni a la potencia.
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está licenciado bajo:
 
 Contenido, diseño y assets: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Puedes usar, modificar, compartir y adaptar este proyecto sin fines comerciales, y atribuyendo a la autoría correspondiente.
 
-💚 Créditos
+## 💚 Créditos
 Creado con amor por EricReck.
 
 Inspirado en la necesidad de accesibilidad, minimalismo y profesionalismo en el entorno escénico.
@@ -77,6 +77,6 @@ Si te gusta este proyecto, considera:
 
 🙌 Contribuyendo con ideas o mejoras
 
-📬 Contacto
+## 📬 Contacto
 ¿Ideas, errores o colaboración?
 Puedes abrir un issue en GitHub o escribirme a: alvaro.productions1@gmail.com
