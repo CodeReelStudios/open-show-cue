@@ -59,7 +59,7 @@ Muchos programas similares son de pago, privativos o demasiado complejos para lo
 ## 📄 Licencia
 Este proyecto está licenciado bajo:
 
-Contenido, diseño y assets: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Contenido, diseño y assets: Licencia: Creative Commons BY-NC 4.0 (Atribución – No Comercial)
 
 Puedes usar, modificar, compartir y adaptar este proyecto sin fines comerciales, y atribuyendo a la autoría correspondiente.
 
